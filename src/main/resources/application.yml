@@ -1,0 +1,7 @@
+spring:
+  pulsar:
+    consumer:
+      subscription:
+        initial-position: earliest
+
+server.port: 9090
